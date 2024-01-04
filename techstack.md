@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 joshbrooks/pgosm-flex is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Lua](http://www.lua.org/) – Languages
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
@@ -10,11 +11,13 @@ joshbrooks/pgosm-flex is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 joshbrooks/pgosm-flex is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
@@ -23,14 +26,15 @@ joshbrooks/pgosm-flex is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/pgosm-flex](https://github.com/joshbrooks/pgosm-flex)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|11/09/23 <br/>Report generated|
+|11<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -120,11 +124,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[click](https://pypi.org/click)|v8.0.1|08/10/21|Ryan Lambert |BSD-3-Clause|N/A|
-|[coverage](https://pypi.org/coverage)|v6.1.2|11/14/21|Ryan Lambert |Apache-2.0|N/A|
-|[sh](https://pypi.org/sh)|v1.14.2|08/10/21|Ryan Lambert |MIT|N/A|
+|[click](https://pypi.org/project/click)|v8.0.1|08/10/21|Ryan Lambert |BSD-3-Clause|N/A|
+|[coverage](https://pypi.org/project/coverage)|v6.1.2|11/14/21|Ryan Lambert |Apache-2.0|N/A|
+|[sh](https://pypi.org/project/sh)|v1.14.2|08/10/21|Ryan Lambert |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
